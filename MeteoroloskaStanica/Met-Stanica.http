@@ -1,0 +1,6 @@
+@Met_Stanica_HostAddress = http://localhost:5291
+
+GET {{Met_Stanica_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

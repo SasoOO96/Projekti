@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "EI2DkSUxc2jnmPHKa6yAw/7h4qlufq+tnEyNxQUTYoM=",
+  "Source": "Met-Stanica",
+  "BasePath": "_content/Met-Stanica",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
